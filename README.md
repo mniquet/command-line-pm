@@ -1,7 +1,8 @@
 # Command Line PM 🤖
 The "Command Line PM" is a feature-rich command-line application written in Go that provides efficient task management, daily activity scheduling, and task notifications. This project was created to provide a fun and developer-friendly task & time management tool, creating a sense of urgency and helping developers stay on top of their tasks.
 
-![Prison Mike task management meme](https://imgflip.com/i/883e15)
+<!-- https://imgflip.com/i/883e15 -->
+![Prison Mike task management meme](https://i.imgflip.com/883e15.jpg)
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
